@@ -19,6 +19,8 @@ import views.html.index;
 
 public class Application extends Controller {
 	
+	//testando o commt
+	
 	private static boolean criouEventosFake = false;
 	private static GenericDAO dao = new GenericDAOImpl();
 
